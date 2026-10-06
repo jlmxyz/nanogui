@@ -1,4 +1,4 @@
-ext/pybind11*.a
+ext/
 *.exe
 *.lib
 *.cmake
