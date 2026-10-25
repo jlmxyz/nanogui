@@ -1,4 +1,5 @@
 cmake_minimum_required (VERSION 4.3.4)
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 include(FetchContent)
 project("NanoGUI")
 
